@@ -85,7 +85,7 @@ This bot solves the challenge by:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/smart-diet-planner-bot.git
+   git clone https://github.com/Yours-Nishant/Diet_Panner.git
    ```
 2. Open Main.xaml in UiPath Studio
 3. Install dependencies:
