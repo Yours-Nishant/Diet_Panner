@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mediterranean",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "sT4cZ8J3ZU2ugwRAaDFAKQ",
+  "Reference": "QR44ZK20A0mDHV5I8eOpNQ/sT4cZ8J3ZU2ugwRAaDFAKQ",
+  "ParentRef": "QR44ZK20A0mDHV5I8eOpNQ/IYOSuj9FhUKFizjePKmSBA",
+  "Created": "2025-07-29T17:19:09.8897943Z",
+  "Updated": "2025-07-29T17:19:09.8897943Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

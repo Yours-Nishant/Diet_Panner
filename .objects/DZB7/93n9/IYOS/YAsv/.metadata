@@ -1,0 +1,14 @@
+﻿{
+  "Name": "grouping",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "YAsvmbXsWkuUVUpwjmSW5A",
+  "Reference": "QR44ZK20A0mDHV5I8eOpNQ/YAsvmbXsWkuUVUpwjmSW5A",
+  "ParentRef": "QR44ZK20A0mDHV5I8eOpNQ/IYOSuj9FhUKFizjePKmSBA",
+  "Created": "2025-07-29T17:07:59.4005845Z",
+  "Updated": "2025-07-29T17:07:59.4005845Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
